@@ -1,7 +1,7 @@
 # Voting-app
 Please find below sample code for voting application:
 https://github.com/ChereddyBindu123/sample-voting-app
-Building Voting- application using Docker:
+Building Voting- application using Docker,
 
 --make sure that docker is installed in your linux machine or not, if not install the docker using below command:
 # yum install docker*
